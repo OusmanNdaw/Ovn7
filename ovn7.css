@@ -8,3 +8,16 @@ body {
     padding: 10px;
     margin: 0 auto 0 auto;
     }
+
+    .site-footer {
+        background: orange;
+      }
+      
+      #footer-content {
+        background: red;
+      }
+      <footer class="site-footer">
+        <div id="footer-content">
+          <p>Copyright 2017 @ Domain - All Rights Reserved </p>
+        </div>
+      </footer>
