@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    
+    #box1 {
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto 0 auto;
+    }
